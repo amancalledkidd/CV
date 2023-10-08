@@ -1,7 +1,5 @@
 <h1 align="center">Kumani Kidd - Digital CV</h1>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumani-kidd-168290249/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/KKidd82)
 
 After devoting the last five years to enhancing my skills in a tech manufacturing company, my passion for technology evolved, leading me to pivot from hardware to software. As I near the completion of a comprehensive software development course at Makers Academy, I am eager to embark on a career as a junior developer and further embrace this journey of continuous learning.
 
@@ -101,8 +99,8 @@ Demonstrated adaptability and a composed manner throughout my tenure at Carallon
 -	Used PostgreSQL and MongoDB for building and managing databases.
 -	Demonstrated competence in both front-end and back-end development, ensuring end-to-end functionality.
 -	Developed software solutions using Object-Oriented Programming (OOP) principles for maintainable and scalable code.
--	Enhanced coding skills through collaborative pair programming sessions.
--	Applied analytical and problem-solving skills in coding assignments and complex projects.
+-	Enhanced coding and teamwork skills through collaborative pair programming sessions.
+-	Applied analytical and problem-solving skills in coding assignments and projects.
 -	Proficient in Git, ensuring efficient code management.
 -	Maintained comprehensive documentation for transparent and streamlined collaboration.
 -	Proficient in debugging, with a strong ability to identify and resolve software issues efficiently.
@@ -111,7 +109,12 @@ Demonstrated adaptability and a composed manner throughout my tenure at Carallon
 
 ## Hobbies
 
-- 🧘🏽 Yoga - A regular practice helps me find a inner peace.
-- 📚 Studying - I love finding something intresting then diving in a learning all about it.
-- 🎨 3D Art/design - When I have time I enjoy playing around with Blendr and Unreal engine.
+- 🧘🏽 Yoga - A regular practice helps me find inner peace.
+- 📚 Studying - When I find something new that peaks my interest, I love diving in, and learning all about it.
+- 🎨 3D Art/design - When I have time, I enjoy expressing my creativity with Blendr and Unreal engine.
 - 🎮 Gaming - Getting lost in an virtual world is dreamy.
+
+## Find out more
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumani-kidd-168290249/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/KKidd82)
