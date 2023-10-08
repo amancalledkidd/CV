@@ -1,69 +1,117 @@
-## Your Name
+<h1 align="center">Kumani Kidd - Digital CV</h1>
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumani-kidd-168290249/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/KKidd82)
+
+After devoting the last five years to enhancing my skills in a tech manufacturing company, my passion for technology evolved, leading me to pivot from hardware to software. As I near the completion of a comprehensive software development course at Makers Academy, I am eager to embark on a career as a junior developer and further embrace this journey of continuous learning.
+
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [GameBook](https://github.com/amancalledkidd/Gamebook)            | A social media site with a gaming twist | React, Jest, MongoDB, Express, HTML, JavaScript, Node.js, Figma |
+| [MakersBnb](https://github.com/amancalledkidd/Makersbnb/tree/main) | A Airbnb inspired website | Python, Flask, PostgresSQL, Pytest, Bootstrap             |
+
+
+## Technologies
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**British Vintage Boxing** (2017 to present)  
+_Operations, Marketing and Finance consultant_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Managed inventory and stock control efficiently.
+- Assisted in the development and execution of marketing campaigns and social media strategies.
+- Successfully organised and set up pop-up shops in central London.
+- Maintained regular communication with the team to provide updates on stock, sales, and upcoming events.
+- Provided valuable input and consultation for future business decisions.
+- Took charge of planning, organising, and managing photoshoots to enhance brand image and marketing materials.
 
-- Any experience relevent to software development
+
+
+**Carallon** (2021 to 2023)  
+_Manufacturing Technician_
+
+-	Built industrial video and lighting processors.
+-	Intergrated software into the products.
+-	Evaluated product quality to ensure adherence to high standards.
+-	Collaborated with the software team to resolve issues with defective products.
+-	Maintained and managed stock levels efficiently.
+-	Conducted comprehensive product testing to identify and address issues.
+-	Provided training and mentorship to new employees.
+
+
+
+**Carallon** (2018 to 2021)  
+_Operations Coordinator_
+
+-	Processed and shipped customer orders promptly.
+-	Accommodated specific customer requirements to enhance satisfaction.
+-	Collaborated cross-functionally with various departments to ensure on-time product delivery.
+-	Demonstrated flexibility in handling unexpected business situations.
+-	Generated invoices and managed billing procedures within the company systems.
+-	Established and maintained relationships with suppliers.
+-	Proficiently managed stock inventory.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
-#### Another skill
+Communication is a skill that I've cultivated significantly over the years at Carallon. I've spent ample time engaging with suppliers, customers, and colleagues from various departments. When I worked in the operations department, I would be on the phone weekly to customs, explaining what the products were and about the certification we had, this would ensure it would get to the customers without any trouble. This experience has not only bolstered my confidence but also equipped me to adeptly handle issues as they arise.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I particularly excel in one-on-one interactions, where I can establish deeper connections and foster relationships that enhance team efficiency and make work more enjoyable. I believe these interpersonal skills will seamlessly complement pair programming, a practice I've come to thoroughly appreciate. Pair programming facilitates knowledge sharing, and much of my learning during my time at Makers Academy has occurred during these sessions. Not only have I gained new insights from my peers, but I've also solidified my own understanding by teaching concepts.
 
-#### Another skill
+
+#### Problem Solving
+
+Every day, I find myself immersed in problem-solving, and I genuinely relish the experience. During my time at Carallon, this was a common occurrence, especially during product testing when I had to integrate software into our products. It was up to me to use my skills and experience to identify the issues and fix them effectively. During the final stages of testing, I noticed a few processors were working but were occasionally loses video. I took some time to investigate it and found that one of our parts had a new supplier and this caused this issue only when this part was paired with our older chips. I took this to my manager and avoided a potential product recall. 
+
+This knack for problem-solving seamlessly carries over into my passion for software development. There's something truly gratifying about the debugging process, where I break down complex issues, uncover their core, and engineer solutions. It’s a challenge which suits my calm and strategic approach, and significant part of what drew me into the world of software development.
+
+
+#### Teaching
+
+Developed strong teaching and communication skills during a three-month volunteer project with the International Citizen Service (ICS) in Nepal. Collaborated with a diverse team of Nepali citizens to enhance education and community engagement. Conducted classroom teaching for students in years 7 to 9, emphasizing English language instruction. Initiated morning classes for adult learners in the community, provided personal math tutoring, and established a chess club. These skills enhance my ability to explain complex technical concepts and collaborate effectively as a software developer, bridging the gap between technical and non-technical stakeholders.
+
+#### Adaptability
+
+Demonstrated adaptability and a composed manner throughout my tenure at Carallon. Managed unexpected changes in project scope and shifting client requirements with ease, including challenges posed by supply chain disruptions during the COVID-19 pandemic. Ensured timely project delivery by swiftly adapting to evolving circumstances. This adaptability and my ability to stay calm under pressure were essential in resolving critical issues, including those exacerbated by the pandemic, and maintaining client satisfaction. These attributes continue to be instrumental in my software development career, where I readily embrace new technologies and navigate demanding deadlines with composure, ensuring consistent high-quality outcomes.
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2023 to October 2023)
+-	Proficient in JavaScript and Python.
+-	Utilized Node.js and Flask for full-stack web development.
+-	Implemented Test-Driven Development (TDD) using Jest and Pytest for code reliability and quality.
+-	Actively participated in team projects, following agile practices to deliver exceptional software solutions.
+-	Leveraged strong interpersonal skills to foster effective collaboration within diverse teams.
+-	Used PostgreSQL and MongoDB for building and managing databases.
+-	Demonstrated competence in both front-end and back-end development, ensuring end-to-end functionality.
+-	Developed software solutions using Object-Oriented Programming (OOP) principles for maintainable and scalable code.
+-	Enhanced coding skills through collaborative pair programming sessions.
+-	Applied analytical and problem-solving skills in coding assignments and complex projects.
+-	Proficient in Git, ensuring efficient code management.
+-	Maintained comprehensive documentation for transparent and streamlined collaboration.
+-	Proficient in debugging, with a strong ability to identify and resolve software issues efficiently.
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- 🧘🏽 Yoga - A regular practice helps me find a inner peace.
+- 📚 Studying - I love finding something intresting then diving in a learning all about it.
+- 🎨 3D Art/design - When I have time I enjoy playing around with Blendr and Unreal engine.
+- 🎮 Gaming - Getting lost in an virtual world is dreamy.
