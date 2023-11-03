@@ -7,10 +7,11 @@ After devoting the last five years to enhancing my skills in a tech manufacturin
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [GameBook](https://github.com/amancalledkidd/Gamebook)            | A social media site with a gaming twist | React, Jest, MongoDB, Express, HTML, JavaScript, Node.js, Figma |
-| [MakersBnb](https://github.com/amancalledkidd/Makersbnb/tree/main) | A Airbnb inspired website | Python, Flask, PostgresSQL, Pytest, Bootstrap             |
+| Name                         | Description       | Tech/tools        | Link |
+| ---------------------------- | ----------------- | ----------------- | ---- |
+| [GameBook](https://github.com/amancalledkidd/Gamebook)            | A social media site with a gaming twist | React, Jest, MongoDB, Express, HTML, JavaScript, Node.js, Figma | |
+| [MakersBnb](https://github.com/amancalledkidd/Makersbnb/tree/main) | A Airbnb inspired website | Python, Flask, PostgresSQL, Pytest, Bootstrap ||
+| [FlavourFinder](https://github.com/amancalledkidd/FlavourFinders)  | A recipe generator that harnesses the power of AI| React, Jest, Express, Node, JavaScript| [Render](https://flavour-finder.onrender.com/) |
 
 
 ## Technologies
