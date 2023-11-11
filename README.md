@@ -106,7 +106,7 @@ Demonstrated adaptability and a composed manner throughout my tenure at Carallon
 -	Maintained comprehensive documentation for transparent and streamlined collaboration.
 -	Proficient in debugging, with a strong ability to identify and resolve software issues efficiently.
 
-#### Makers Academy (September 2010 to July 2012)
+#### Queens Park Community School (September 2010 to July 2012)
 - Four A-Levels: Business, Economics, Media and Critical Thinking 
 
 
