@@ -1,4 +1,4 @@
-<h1 align="center">Kumani Kidd - Digital CV</h1>
+<h1 align="center">Kumani Kidd - CV</h1>
 
 
 After devoting the last five years to enhancing my skills in a tech manufacturing company, my passion for technology evolved, leading me to pivot from hardware to software. As I near the completion of a comprehensive software development course at Makers Academy, I am eager to embark on a career as a junior developer and further embrace this journey of continuous learning.
